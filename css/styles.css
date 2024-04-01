@@ -35,6 +35,10 @@ a {
     color: var(--primary-text-color);
 }
 
+.contacts {
+    font-style: normal;
+}
+
 .general-title {
     font-size: 56px;
     line-height: 60px;
@@ -47,7 +51,7 @@ a {
 }
 
 .card-title {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
 }
 
@@ -88,7 +92,7 @@ a {
 
 .team-card {
     width: 264px;
-    background-color: var(--card-background-color);
+    background-color: var(--background-color);
 }
 
 .filter-button {
@@ -103,7 +107,6 @@ a {
 
 .portfolio-card {
     width: 360px;
-    border: 1px solid var(--card-border-color);
 }
 
 .footer {
