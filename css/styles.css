@@ -68,7 +68,7 @@ a {
 }
 
 .logo-part {
-    color: var(--primary-text-color);
+    color: var(--secondary-sections-background-color);
 }
 
 .order-section {
